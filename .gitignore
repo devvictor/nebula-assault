@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# Capacitor native projects are generated, but SHOULD be committed once created
+# (they hold signing config, icons and native tweaks). Ignore only their build output.
+ios/App/build/
+ios/App/Pods/
+android/build/
+android/app/build/
+android/.gradle/

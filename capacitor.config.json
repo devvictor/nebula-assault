@@ -1,0 +1,18 @@
+{
+  "appId": "com.nebulaassault.game",
+  "appName": "Nebula Assault",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#05060d"
+  },
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#05060d"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false,
+      "backgroundColor": "#05060d"
+    }
+  }
+}
